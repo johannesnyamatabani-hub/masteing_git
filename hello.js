@@ -1,3 +1,3 @@
 console.log('hello, git!');
 console.log('hello, github');
-console.log('TRYING OUT REVERT');
+console.log('TRYING TO REVERT');
